@@ -47,7 +47,7 @@ If the user choose multiplication then display result-1
 
 Else ask the order of division from number1 and its operator divided by number2 and its operator and vice versa
 
-If it's number1 and its operator divided by number 2 and its operator then display result-2
+If it's number1 and its operator divided by number2 and its operator then display result-2
 
 Else display result-3
 
