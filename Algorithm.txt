@@ -25,14 +25,32 @@ If 12 then display Dec
 Question (3)
 
 Ask the user to enter number1
-Ask the user to enter operatorofnumber1mul
+Ask the user to enter The-operator-of-number1-along-with-1-like-plusORminusORpercentage1
 Ask the user to enter number2
-Ask the user to enter operatorofnumber2
+Ask the user to enter The-operator-of-number2-along-with-1-like-plusORminusORpercentage1
+Ask the user to press the Key a if He/She wants to add a multiplication or division operator between number1 and number2 along with their own plus, minus or percentage operators and b if he/she doesn't want any additional operators between them.
+
 SET a to number1
-SET b to operatorofnumber1
+SET b to The-operator-of-number1-along-with-1-like-plusORminusORpercentage1
 SET c to number2
-SET d to operatorofnumber2
+SET d to The-operator-of-number2-along-with-1-like-plusORminusORpercentage1
 SET result to (a(b) + c(d))
+SET result-1 to (a(b) × c(d))
+SET result-2 to (a(b) ÷ c(d))
+SET result-3 to (c(d) ÷ a(b))
+
+If the user pressed b then display result 
+
+Else ask the user to specify the operator
+
+If the user choose multiplication then display result-1
+
+Else ask the order of division from number1 and its operator divided by number2 and its operator and its vice versa
+
+If it's number1 and its operator divided by number 2 and its operator then display result-2
+
+Else display result-3
+
 
 
 
