@@ -13,8 +13,7 @@
 * _My hobbies shift periodically, but at the moment I'm interested in honing my programming skills_
 
 
-![Image of the sky at night](https://drive.google.com/file/d/1ZvKwhlS0xYDYUb83ASrS3VT5EiKJRI6z/view?usp=drivesdk)
- 
+![Image of the sky at night](https://drive.usercontent.google.com/download?id=1ZvKwhlS0xYDYUb83ASrS3VT5EiKJRI6z&authuser=0)
 
 
 
