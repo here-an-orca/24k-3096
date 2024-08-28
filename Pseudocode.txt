@@ -27,7 +27,7 @@ INPUT number1
 INPUT number2
 INPUT number3
 
-//Initilization
+//Initialization
 SET sum to 0
 
 //Process
