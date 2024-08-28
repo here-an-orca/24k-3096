@@ -42,10 +42,10 @@ Question (3)
 START
 
 //Input/Output
-INPUT plusORminusoperator1
-INPUT number1
-INPUT plusORminusoperator2
+INPUT mumber1
+INPUT operatorofnumber1
 INPUT number2
+INPUT operatorofnumber2
 
 //Initialization
 SET a to 0
@@ -55,9 +55,9 @@ SET d to 0
 SET result to 0
 
 //Process
-SET a to plusORminusoperator1
+SET a to operatorofnumber1
 SET b to number1
-SET c to plusORminusoperator2
+SET c to operatorofnumber2
 SET d to number2
 SET result to (a(b) + c(d))
 
