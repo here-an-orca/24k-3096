@@ -31,7 +31,7 @@ INPUT number3
 SET sum to 0
 
 //Process
-sum = -(-number1-number2-number3)
+SET sum to -(-number1-number2-number3)
 
 PRINT "sum"
 
@@ -48,18 +48,18 @@ INPUT plusORminusoperator2
 INPUT number2
 
 //Initialization
-a = 0
-b = 0
-c = 0
-d = 0
-result = 0
+SET a to 0
+SET b to 0
+SET c to 0
+SET d to 0
+SET result to 0
 
 //Process
-a = plusORminusoperator1
-b = number1
-c = plusORminusoperator2
-d = number2
-result = a(b) + c(d)
+SET a to plusORminusoperator1
+SET b to number1
+SET c to plusORminusoperator2
+SET d to number2
+SET result to (a(b) + c(d))
 
 PRINT "result"
 
