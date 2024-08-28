@@ -1,1 +1,39 @@
+Algorithm-Question(1)
+
+Ask the user to Enter the Nth-number
+Ask the user to Enter the n-Number
+Set a to n-number/Nth-number
+If a is an integer then Set b to Nth-number/2, Else display that "Nth-number is not a divisor of n-number"
+If b is an integer then display "The Nth-number is a divisor of n-number and it's even" Else "The Nth-number is a divisor of n-number and it's odd"
+
+Question (2)
+
+Ask the user to enter a number between 1 and 12, including 1 and 12
+If the user enters 1 then display Jan
+If 2 then display Feb
+If 3 then display Mar
+If 4 Then display April
+If 5 then display May
+If 6 then display Jun
+If 7 then display Jul
+If 8 then display Aug
+If 9 then display Sep
+If 10 then display Oct
+If 11 then display Nov
+If 12 then display Dec
+
+Question (3)
+
+Ask the user to enter number1
+Ask the user to enter operatorofnumber1mul
+Ask the user to enter number2
+Ask the user to enter operatorofnumber2
+SET a to number1
+SET b to operatorofnumber1
+SET c to number2
+SET d to operatorofnumber2
+SET result to (a(b) + c(d))
+
+
+
 
