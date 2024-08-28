@@ -1,8 +1,8 @@
 
 # Identity
-**Name** : **Aun Wasif**
+**Name**: **Aun Wasif**
 
-**Roll No** : **24k-3096**
+**Roll No**: **24k-3096**
 
 
 # About Me 
