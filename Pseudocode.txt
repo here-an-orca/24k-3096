@@ -43,9 +43,9 @@ START
 
 //Input/Output
 INPUT number1
-INPUT The-operator-of-number1-with-1-like-plusorminus1
+INPUT The-operator-of-number1-along-with-1-like-plusORminus1
 INPUT number2
-INPUT The-operator-of-number2-with-1-like-plusorminus1
+INPUT The-operator-of-number2-along-with-1-like-plusORminus1
 
 //Initialization
 SET a to 0
@@ -55,9 +55,9 @@ SET d to 0
 SET result to 0
 
 //Process
-SET a to The-operator-of-number1-with-1-like-plusorminus1
+SET a to The-operator-of-number1-along-with-1-like-plusORminus1
 SET b to number1
-SET c to The-operator-of-number2-with-1-like-plusorminus1
+SET c to The-operator-of-number2-along-with-1-like-plusORminus1
 SET d to number2
 SET result to (a(b) + c(d))
 
