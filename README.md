@@ -14,7 +14,6 @@
 
 
 ![Image of the sky at night](https://imgur.com/gallery/IxBzYdR)
-
  
 
 
